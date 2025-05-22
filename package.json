@@ -1,0 +1,23 @@
+{
+  "name": "npm-packager",
+  "version": "1.0.0",
+  "description": "make your own npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Ehmed/npm-packager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Ehmed/npm-packager/issues"
+  },
+  "homepage": "https://github.com/Hamza-Ehmed/npm-packager#readme",
+  "dependencies": {
+    "metro-react-native-babel-preset": "^0.77.0",
+    "react-native": "0.75.4"
+  }
+}
